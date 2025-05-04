@@ -21,11 +21,8 @@ Before running this project, make sure you have the following installed:
 ### Backend (Node.js)
 1. Clone the repositories:
    ```bash
-   # Clone backend repository
-   git clone https://github.com/Khemz-Developer/virtual-pet-adoption-backend.git
-   
-   # Clone frontend repository
-   git clone https://github.com/Khemz-Developer/virtual-pet-adoption-frontend.git
+   # Clone  repository
+   git clone https://github.com/Khemz-Developer/Virtual-Pet-Adoption-Center.git
    ```
 
 2. Navigate to the backend directory:
